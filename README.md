@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# TKH-26-labs
-=======
+
 # Financial Fraud Project
 ### Caishen Bank
 
