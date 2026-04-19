@@ -31,4 +31,3 @@ The baseline Random Forest model got an F1 score of 0.9988. After tuning the hyp
 1. Install libraries: `pip install pandas numpy matplotlib seaborn scikit-learn`
 2. Add the dataset `Finanacial dataset project.csv` to the project folder
 3. Run notebooks in order: Notebook 1 , Notebook 2 , Notebook 3
->>>>>>> cd83c3415908ba574126bd3fa0a1d08de7d1b211
